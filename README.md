@@ -9,6 +9,30 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 https://app.powerbi.com/groups/me/reports/48c7f31e-9e8b-4a03-93f6-d53eba749971/434d7c110050b189d641?experience=power-bi
 
+1. Credit Card Transaction Report
+
+This report provides insights into the credit card transaction volumes and revenue.
+
+Key features include:
+
+- Revenue and Total Transaction Count by Quarter
+  
+- Revenue breakdown by Expense Type, Education Level, Job, and Card Type
+
+- Transaction details by different card usage methods.
+
+2. Credit Card Customer Report
+   
+This report delves into customer profiles and their interaction with credit card services.
+
+Key features include:
+
+- Revenue and transaction details segmented by income, gender, and dependent count
+  
+- Analysis of customer satisfaction scores
+  
+- Revenue by marital status, top states by revenue, and age groups.
+  
 #Insights
 
 WOW change:
